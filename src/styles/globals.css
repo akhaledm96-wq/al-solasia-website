@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+@theme {
+  --color-orange: #D96B24;
+  --color-orange-dark: #B85819;
+  --color-orange-light: #F48A44;
+  --color-ink: #191A1C;
+  --color-ink-deep: #121315;
+  --color-paper: #F4F1EB;
+  --color-paper-light: #FAF8F5;
+  --color-muted: #686761;
+  --color-line: #D8D3CA;
+  --color-line-dark: #38393D;
+  --color-soft: #E7E1D7;
+  --color-surface-dark: #222327;
+
+  --font-arabic: var(--font-arabic), "IBM Plex Sans Arabic", "Noto Sans Arabic", Tahoma, sans-serif;
+  --font-sans: var(--font-sans), "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+:root {
+  --orange: #D96B24;
+  --ink: #191A1C;
+  --paper: #F4F1EB;
+  --muted: #686761;
+  --line: #D8D3CA;
+  --soft: #E7E1D7;
+  --max-width: 1200px;
+}
+
+html {
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  background-color: var(--paper);
+  color: var(--ink);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* Base utility container */
+.container-custom {
+  width: min(var(--max-width), calc(100% - 48px));
+  margin-inline: auto;
+}
+
+@media (max-width: 640px) {
+  .container-custom {
+    width: min(var(--max-width), calc(100% - 32px));
+  }
+}
+
+/* Custom Architectural Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #191A1C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3E4046;
+  border-radius: 2px;
+  border: 1px solid #191A1C;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D96B24;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #3E4046 #191A1C;
+}
+
+/* Caret color */
+input,
+textarea,
+select {
+  caret-color: #D96B24;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Selection */
+::selection {
+  background-color: #D96B24;
+  color: #FFFFFF;
+}

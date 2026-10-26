@@ -1,0 +1,144 @@
+{
+  "topline": {
+    "left": "BUILDING WITH EXPERIENCE SINCE 1992",
+    "right": "Egypt · Construction · Engineering"
+  },
+  "nav": {
+    "brandName": "AL-SOLASIA",
+    "brandSub": "Building Engineering",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "process": "How We Work",
+    "contact": "Contact",
+    "careers": "Careers",
+    "cta": "Discuss your project",
+    "langSwitch": "عربي"
+  },
+  "hero": {
+    "kicker": "ENGINEERING EXPERIENCE. BUILT ON TRUST.",
+    "title": "A solid foundation for what comes {next}",
+    "next": "next.",
+    "desc": "From complex construction projects to the place you call home, Al-Solasia brings engineering discipline, practical experience, and accountable execution to every build.",
+    "ctaPrimary": "Start a project",
+    "ctaSecondary": "Explore our work",
+    "proof1": "More than 30 years in construction",
+    "proof2": "Experience across Egypt",
+    "badge1": "1992",
+    "badge2": "30+ YEARS",
+    "badge3": "EGYPT",
+    "imgAlt": "Telecom Egypt facility project executed by Al-Solasia Building Engineering"
+  },
+  "stats": {
+    "stat1": { "val": "30+", "label": "Years of experience" },
+    "stat2": { "val": "EGYPT", "label": "Projects across the country" },
+    "stat3": { "val": "360°", "label": "Design to delivery approach" },
+    "stat4": { "val": "1 TEAM", "label": "Clear accountability on site" }
+  },
+  "about": {
+    "kicker": "WHO WE ARE",
+    "title": "Engineering know-how. A commitment to getting it built right.",
+    "p1": "Al-Solasia Building Engineering brings decades of experience in Egypt's construction sector, with a proven background in institutional projects and an expanding focus on private residential and commercial clients.",
+    "p2": "Our approach connects practical engineering, coordinated design, and disciplined site execution — so clients understand the scope, the milestones, and the next step.",
+    "check1": "Experienced construction & engineering team",
+    "check2": "Clear project milestones and transparent reporting",
+    "check3": "Design and execution coordination",
+    "check4": "Public, institutional, and private sector experience",
+    "stampText": "A foundation built on experience since 1992",
+    "cta": "Get to know our team"
+  },
+  "services": {
+    "kicker": "WHAT WE DO",
+    "title": "The right expertise at every stage of the build.",
+    "desc": "Flexible support for owners and organizations — from early design coordination to construction, finishing, and rehabilitation.",
+    "exploreAll": "Explore full service capabilities",
+    "ctaDiscuss": "Discuss this service",
+    "s1": {
+      "num": "01",
+      "category": "PLAN",
+      "title": "Design & Engineering",
+      "desc": "Architectural and structural design coordination, constructability reviews, and practical engineering solutions shaped around your project."
+    },
+    "s2": {
+      "num": "02",
+      "category": "BUILD",
+      "title": "Construction & Contracting",
+      "desc": "Turnkey construction delivery from foundations through reinforced concrete, structural frameworks, and coordinated handover."
+    },
+    "s3": {
+      "num": "03",
+      "category": "FINISH",
+      "title": "Finishing, Fit-out & Renovation",
+      "desc": "Interior and exterior finishing, villa and apartment renovations, and detail-focused execution for residential and commercial spaces."
+    },
+    "s4": {
+      "num": "04",
+      "category": "RESTORE",
+      "title": "Repair & Rehabilitation",
+      "desc": "Structural assessment and repair planning to address defects, reinforce concrete, improve performance, and extend asset life."
+    },
+    "s5": {
+      "num": "05",
+      "category": "MANAGE",
+      "title": "Site Supervision & Coordination",
+      "desc": "Rigorous site follow-up, contractor coordination, quality control, and milestone progress visibility."
+    },
+    "s6": {
+      "num": "06",
+      "category": "DELIVER",
+      "title": "Approvals & Documentation",
+      "desc": "Support coordinating project documentation, authority submittals, and compliance tracking according to applicable regulations."
+    }
+  },
+  "projects": {
+    "kicker": "SELECTED EXPERIENCE",
+    "title": "A track record built across different project types.",
+    "desc": "A curated selection of verified works across institutional, commercial, and residential sectors.",
+    "p1": {
+      "tag": "INSTITUTIONAL / TELECOM",
+      "title": "Telecommunications Infrastructure & Exchange Facilities",
+      "loc": "Selected projects across Egypt (Dokki, Port Said, Fustat, Shubra El Kheima, Ahmed Orabi)"
+    },
+    "p2": {
+      "tag": "RESIDENTIAL",
+      "title": "Private Residential Buildings & Villas",
+      "loc": "New Cairo, Obour & Greater Cairo"
+    },
+    "p3": {
+      "tag": "COMMERCIAL & PUBLIC",
+      "title": "Commercial Outlets & Civic Facilities",
+      "loc": "Shorouk, New Mansoura & Cairo"
+    },
+    "note": "Photographs represent actual projects executed by Al-Solasia Building Engineering. Project details and credentials verified."
+  },
+  "process": {
+    "kicker": "A CLEAR WAY FORWARD",
+    "title": "Good projects start with clear expectations.",
+    "desc": "A straightforward 4-stage process helps owners understand scope, decisions, milestones, and progress before each stage begins.",
+    "step1": { "step": "STEP 01", "title": "Understand", "desc": "Discuss your goals, site location, technical requirements, and readiness." },
+    "step2": { "step": "STEP 02", "title": "Define", "desc": "Agree on the scope of work, design coordination, and project specifications." },
+    "step3": { "step": "STEP 03", "title": "Plan", "desc": "Establish milestones, deliverables, timelines, responsibilities, and clear payment terms." },
+    "step4": { "step": "STEP 04", "title": "Deliver", "desc": "Execute on site, conduct quality checks, report progress, and deliver agreed handover." }
+  },
+  "cta": {
+    "title": "Planning a build? Let's discuss the right way to deliver it.",
+    "desc": "Tell us about your project and our engineering team will follow up with practical guidance.",
+    "button": "Discuss your project",
+    "secondary": "Explore services"
+  },
+  "footer": {
+    "desc": "More than 30 years of engineering experience delivering construction, finishing, and rehabilitation projects across Egypt.",
+    "col1Title": "EXPLORE",
+    "col2Title": "SERVICES",
+    "col3Title": "CONTACT",
+    "contactText": "Add verified company phone, official email, and office address before launch.",
+    "copyright": "Al-Solasia Building Engineering. All rights reserved.",
+    "disclaimer": "Engineering and contracting services across Egypt since 1992."
+  },
+  "common": {
+    "backToHome": "Back to Home",
+    "required": "*",
+    "loading": "Submitting...",
+    "readMore": "Learn more"
+  }
+}
